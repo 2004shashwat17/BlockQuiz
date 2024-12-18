@@ -1,9 +1,9 @@
-# StartQuest - Decentralized Space Quiz Game
+# BlockQuiz - Decentralized Blockchain Quiz Game
 
-StartQuest is a decentralized blockchain-themed quiz game that integrates blockchain technology. Users can play the quiz by connecting their wallet, claiming meme tokens, and answering blockchain-related questions. Correct answers reward players with tokens, while wrong answers lead to a penalty. The game is built on Ethereum smart contracts to ensure transparency, fairness, and secure token distribution.
+BlockQuiz is a decentralized blockchain-themed quiz game that integrates blockchain technology. Users can play the quiz by connecting their wallet, claiming meme tokens, and answering blockchain-related questions. Correct answers reward players with tokens, while wrong answers lead to a penalty. The game is built on Ethereum smart contracts to ensure transparency, fairness, and secure token distribution.
 
 ## Features
-- Play a space-themed quiz using meme tokens.
+- Play a blockchain-themed quiz using meme tokens.
 - Earn tokens for correct answers.
 - Penalty for wrong answers to encourage strategic play.
 - End the game at any time with results tracked on the blockchain.
